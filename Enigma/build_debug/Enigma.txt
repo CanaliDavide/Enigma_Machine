@@ -1,0 +1,36 @@
+ENIGMA
+
+---------------------------------------------
+Text:
+
+
+
+---------------------------------------------
+Rotor Positions:
+
+Rotor I    0
+Rotor II   0
+Rotor III  0
+
+---------------------------------------------
+Rotor Settings:
+
+Rotor I    0
+Rotor II   0
+Rotor III  0
+
+---------------------------------------------
+Rotor Starting Letter:
+
+Rotor I    A
+Rotor II   A
+Rotor III  A
+
+---------------------------------------------
+Plugboard Settings:
+
+- -> -
+- -> -
+- -> -
+- -> -
+- -> -
